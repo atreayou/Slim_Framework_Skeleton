@@ -1,6 +1,6 @@
 <?php
 
-abstract class Mapper
+abstract class Model
 {
     protected $db;
 
